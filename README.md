@@ -10,3 +10,5 @@ chmod 755 /usr/local/bin/your-script
 ```
 
 * [finder](finder) - Shell script to open the current folder in terminal within MacOS Finder.
+* [hex](hex) - Script to open the first argument in Hex Fiend.app.  It has its own command line tool but it's faster to make a script than to search for it.
+* 
