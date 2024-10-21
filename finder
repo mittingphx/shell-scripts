@@ -1,0 +1,5 @@
+   #!/bin/sh
+   
+   echo "Opening present working directory (pwd) in Finder"
+   echo `pwd`
+   open `pwd`   
