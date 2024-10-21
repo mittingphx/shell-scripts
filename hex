@@ -1,0 +1,9 @@
+#!/bin/sh
+
+if [ -z "$1" ]; then
+  echo "Error: No arguments provided."
+  exit 1
+fi
+
+echo "Opening $1 in Hex Fiend.app"
+open -a "Hex Fiend.app" $1
